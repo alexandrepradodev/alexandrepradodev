@@ -1,4 +1,4 @@
-### Olá! Meu nome é Alexandre do Prado e estou trilhando uma jornada para me Cientista de Dados cada vez melhor.👋
+### Olá! Meu nome é Alexandre do Prado e estou trilhando uma jornada para me tornar um Cientista de Dados cada vez melhor.👋
 
 
 - 🤖 Atualmente estou estudando assuntos relacionados à Ciência de dados(Data Science)
