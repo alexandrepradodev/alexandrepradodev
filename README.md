@@ -1,8 +1,8 @@
-### Olá! Meu nome é Alexandre do Prado e estou trilhando uma jornada para me tornar um Cientista de Dados cada vez melhor.👋
+### Olá! Meu nome é Alexandre do Prado e estou trilhando uma jornada para me tornar um Engenheiro de Software cada vez melhor.👋
 
 
-- 🤖 Atualmente estou estudando assuntos relacionados à Ciência de dados(Data Science)
-- 🐍 Utilizo Python na maioria dos meus programas
+- 🤖 Atualmente estou estudando assuntos relacionados à Desenvolvimento Web com JAva
+- 🐍 Utilizo Python e Java na maioria dos meus programas
 - 🧑‍💻 Estou cursando Engenharia de Software
 - 🎮 Adoro video games, principalmente jogos de FPS
 
